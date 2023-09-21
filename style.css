@@ -1,0 +1,52 @@
+body{
+    background-color: rgba(0, 0, 0, 0.435);/* фоновый цвет  */
+    font-size: 30px; /* размер текста */
+}
+
+main{
+    font-size: 40px;
+}
+header h1{ 
+    color: rgb(0, 0, 0);  /* стиль для смены цвета текста */
+    border: 7px dotted rgb(0, 0, 0); /*  стиль для создания рамки*/
+    text-align: center; /* выравнивание текста */
+    background-color: rgb(241, 0, 0);/* фоновый цвет  */
+    padding-top: 40px;  /* внутренний отспут  */
+    margin-left: 720px; /* внешний отступ */
+    width: 1200px; /* ширина объектов */
+}
+
+.nav1{
+    border: 20px solid rgb(194, 16, 16);
+    width: 1000px;
+    
+    margin-left: 800;
+    
+}
+.nav2{
+    font-size: 60px;
+    margin-left: 280px;
+
+}
+
+.nav3{
+   
+    border: 15px ridge rgb(132, 106, 106);
+    width:700px;
+    background-color: rgb(255, 0, 0);
+    margin-left: 950;
+}
+
+.nav4{
+    border: 15px solid rgb(180, 27, 27);
+    width:400px;
+} 
+
+.nav5{ 
+    width: 100px;
+}
+a:hover{
+    font-size: 45px;
+    background-color: rgb(56, 135, 109);
+
+}
